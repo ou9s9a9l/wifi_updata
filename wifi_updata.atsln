@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "wifi_updata", "wifi_updata\wifi_updata.cproj", "{3FCA6DD4-A921-42AB-886B-24B7D290FC6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FCA6DD4-A921-42AB-886B-24B7D290FC6F}.Debug|AVR.ActiveCfg = Debug|AVR
+		{3FCA6DD4-A921-42AB-886B-24B7D290FC6F}.Debug|AVR.Build.0 = Debug|AVR
+		{3FCA6DD4-A921-42AB-886B-24B7D290FC6F}.Release|AVR.ActiveCfg = Release|AVR
+		{3FCA6DD4-A921-42AB-886B-24B7D290FC6F}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
